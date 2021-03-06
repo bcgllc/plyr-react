@@ -51,8 +51,8 @@
     "plyr": "^3.6.4"
   },
   "peerDependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.13",
